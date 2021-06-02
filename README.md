@@ -11,6 +11,7 @@ The game I created is a space-shooting game. A user controls the spaceship, you 
 
 II. Problem or Idea
 My games called “Space Buster” have no main menu nor prompt you to play again if you died. The idea is to create and implement a much better movement of user character. But as of right now what I wanted to do is create a main menu function.
+
 III. Analysis
 My analysis in my prototype is that it is neither fully functional nor full-blown game yet. But I’m trying to create and improve this game each time I have new ideas. The game right now is bland. There’s not much feature as of right now but you can play it even though it’s still prototype. The main idea of this game was already implemented, therefore you can play it.
 
